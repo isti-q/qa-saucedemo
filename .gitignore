@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Private AI log
+ai-workflow/ai-log-draft.md
+
+# macOS
+.DS_Store
