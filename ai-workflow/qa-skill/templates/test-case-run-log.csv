@@ -1,0 +1,2 @@
+Run date,Test case ID,Status,Actual result,Environment,Tester,Bug ID
+2026-11-12,TC-SEARCH-001,Fail,"Searching ""Charlotte's Garden"" shows ""0 results""","Windows 11, Chrome 130, staging",QA tester,BUG-001
